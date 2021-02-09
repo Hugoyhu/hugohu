@@ -1,6 +1,6 @@
 # hugoyhu
 
-hi! I'm Hugo, a middle schooler in New york city! Welcome to my small corner of the github internet, filled with bad code and bad hardware.
+hi! I'm Hugo, a student in New york city! Welcome to my small corner of the github internet, filled with bad code and bad hardware.
 
 I'm a hardware enthusiast! I love to make stuff with Arduinos, Pi's, other SBCs and bare chips! I'm also planning on learning to use FPGAs in the future. 
 
