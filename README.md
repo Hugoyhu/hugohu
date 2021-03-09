@@ -1,4 +1,4 @@
-# hugoyhu
+# Hugoyhu
 
 hi! I'm Hugo, a student in New york city! Welcome to my small corner of the github internet, filled with bad code and bad hardware.
 
